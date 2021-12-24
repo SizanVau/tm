@@ -89,9 +89,11 @@ ___________                     .__.__
   |____|         |__|_|  (____  /__|____/
                        \/     \/
 
+
     * Author: Minhaj Setu 
     * Github: https://github.com/TeamNCS
     * Team  : Nashokota Cyber Squad
+
 
 [01] SET EMAIL RANDOM
 [02] SET EMAIL CUSTOM
